@@ -20,6 +20,16 @@ header .line {
     margin: auto;
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 100px;
+    margin: 0;
+    margin-bottom: 30px;
+
+}
+
 .header-area {
     display: flex;
     justify-content: space-between;
@@ -71,4 +81,24 @@ header .line {
 .header-menu img {
     width: 24px;
     height: 24px;
+}
+
+.banner {
+    background-image:url('../images/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.banner-images {
+    margin-top: 60px;
+}
+
+.banner-images img {
+    width: 148px;
+    height: 148px;
+    border: 6px solid #117050;
+    border-radius: 50%;
+    margin-right: 40px;
 }
