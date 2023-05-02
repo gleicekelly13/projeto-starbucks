@@ -157,10 +157,39 @@ h2 {
     background-position: center;
 }
 
-.area2-img2 {
+.area1-img2 {
     grid-column: 2 / 3;  /* coluna 2 até a linha 3*/
     grid-row: 1 / 3;  /*linha 1 até a coluna 3*/
     background-image:url('../images/f1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.area2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+}
+
+.area2-content {
+    padding: 80px;
+}
+
+.area2-text {
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
+.area2-img1 {
+    height: 450px;
+    background-image:url('../images/f4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.area2-img2 {
+    grid-column: 1 / 2;  /* coluna 2 até a linha 3*/
+    grid-row: 1 / 3;  /*linha 1 até a coluna 3*/
+    background-image:url('../images/f3.jpg');
     background-size: cover;
     background-position: center;
 }
