@@ -1,5 +1,7 @@
 <h1 align="center">Projeto Starbucks</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Página com anúncios da Starbucks, desenvolvida em html, css, flexbox e grid, na qual foi aplicada responsividade.</p>
+<br>
 
 ## :desktop_computer: Desktop design
 <br>
