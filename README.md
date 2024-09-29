@@ -27,8 +27,10 @@
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
-<p>HTML5</p>
-<p>CSS3</p>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
 <br>
 
 # :sunglasses: Desenvolvedora
